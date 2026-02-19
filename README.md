@@ -2,6 +2,12 @@
 
 <div  align="center">
   <P>OLÁ! SOU A BRENDA OLIVEIRA</P>
-  <a href="https://github.com/Brehndaw">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brehndaw&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+ </div>
+
+<div align="center" >
+   <a href="https://github.com/Brehndaw">
+   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?
+   username=Brehndaw&show_icons=true&count_private=true&hide_borde=true&title_color=ff91a4&icon_color=ff91a&text_color=c9d1d9&bg_color=0d1117" alt="Brenda Oliveira github stats" />
+  
+     
 </div>
