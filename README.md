@@ -1,14 +1,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color" />
 
-<br>
-
-<div align="center">
-  <img align="center" height="150" src="https://br.freepik.com/vetores-gratis
-    " />
-</div>
-
-  
-  <div  align="center">
+<div  align="center">
   <P>OLÁ! SOU A BRENDA OLIVEIRA</P>
  </div>
-
+ <p>✨-----------------------------------------------------------</p>
+  <div align="center">
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+  </div>
+  
