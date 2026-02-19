@@ -18,7 +18,7 @@
 ---
 
 <p align="center">
-  <a href="https://instagram.com/Brehndaw" target="_blank">
+  <a href="https://instagram.com/_Brehndaw" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-C4B5FD?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
